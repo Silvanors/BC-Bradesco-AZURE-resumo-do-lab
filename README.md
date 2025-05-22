@@ -8,5 +8,6 @@ Foi explicado sobre o SLA, o tempo que cada tipo de serviço acordado poderá fi
 Foi explicado sobre as imagens de máquinas virtuais que podem ser geradas e seus custos. Também foi apresentado sobre a possibilidade de criação somente do servidor de banco de dados e o modelo de redundância.
 ## MÓDULO 2 -  Aprendizado no lab AZURE - Grupo de recursos:
 Foi explicado sobre a visualização da infraestrutura dos datacenters da AZURE pelo link <https://azure.microsoft.com/pt-br/explore/global-infrastructure>. Foi criado um "Grupo de recursos" e incriada uma "rede virtual" neste grupo. Foi visto também a navegação pelos menus para conhecer as funcionalidades.
-
+## MÓDULO 2 -  Aprendizado no lab AZURE - Máquinas Virtuais, Área de trabalho Virtual e Aplicativos de funções :
+Foi explicado sobre a criação de uma máquina virtual analisando todos os requisitos para validação e criação, também foi explicado sobre a criação de área de trabalho virtual como, também, alicativos de funções.
 by Silvano Rodrigues
