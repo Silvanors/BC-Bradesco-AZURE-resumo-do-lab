@@ -11,15 +11,16 @@ Foi explicado sobre a visualização da infraestrutura dos datacenters da AZURE 
 ## MÓDULO 2 -  Aprendizado no lab AZURE - Máquinas Virtuais, Área de trabalho Virtual e Aplicativos de funções :
 Foi explicado sobre a criação de uma máquina virtual analisando todos os requisitos para validação e criação, também foi explicado sobre a criação de área de trabalho virtual como, também, aplicativos de funções.
 ## MÓDULO 3 -  Aprendizado no lab AZURE - Análise de Sentimentos com Language Studio no Azure AI:
-Foram apresentadas conjunto de ferramentas para:
-->Analisar texto:<br>
-->Bate papo integrado;
-->Serviço de bot (necessidade de treinamento do bot);
-->Linguagem coloquial;
-->Reconhecimento e síntese de fala (fala em texto e texto em fala);
-->Foi apresentado o Speech Studio https://speech.microsoft.com;
-->Foi apresentado o Language Studio https://speech.microsoft.com;
-Exemplo de uso: Aplicações com de feedback/avaliações dos clientes aos serviços ofertados para tomada de decisões.
+Foram apresentadas conjunto de ferramentas para:<br>
+->Analisar texto;<br>
+->Bate papo integrado;<br>
+->Serviço de bot (necessidade de treinamento do bot);<br>
+->Linguagem coloquial;<br>
+->Reconhecimento e síntese de fala (fala em texto e texto em fala);<br>
+->Foi apresentado o Speech Studio https://speech.microsoft.com;<br>
+->Foi apresentado o Language Studio https://speech.microsoft.com;<br>
+Exemplo de uso: Aplicações com de feedback/avaliações dos clientes aos serviços ofertados para tomada de decisões.<br>
+<br>
 
 
 by Silvano Rodrigues
