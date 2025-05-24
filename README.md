@@ -37,9 +37,7 @@ Para construir uma pesquisa cognitiva no Azure foram apresentados:<br>
 ->https://aka.ms/ai900-content-filters<br>
 <br>
 Telas com os recursos criados durante o Lab-Azure:
-
-
-Recursos de IA Generativa com Copilot e OpenAI
+Recursos criados no grupo de recursos.png
 
 
 by Silvano Rodrigues
