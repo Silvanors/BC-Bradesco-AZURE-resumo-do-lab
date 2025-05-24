@@ -40,7 +40,6 @@ Exemplo de uso: Aplicações com de feedback/avaliações dos clientes aos servi
   - https://aka.ms/ai900-content-filters<br>
 
 ## Telas - Recursos criados durante o Lab-Azure:<br>
-## Telas - Recursos criados durante o Lab-Azure:<br>
 - [Recursos criados no grupo de recursos](images/Recursos_criados_no_grupo_de_recursos.png);<br>
 - [Serviço de pesquisa](images/Servico_de_pesquisa.png);<br>
 <br>
