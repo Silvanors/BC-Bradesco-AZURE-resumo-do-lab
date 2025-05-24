@@ -20,7 +20,7 @@ Foram apresentadas conjunto de ferramentas para:<br>
 ->Foi apresentado o Speech Studio https://speech.microsoft.com;<br>
 ->Foi apresentado o Language Studio https://speech.microsoft.com;<br>
 Exemplo de uso: Aplicações com de feedback/avaliações dos clientes aos serviços ofertados para tomada de decisões.<br>
-## MÓDULO 4 -  Aprendizado no lab AZURE - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados:<br>
+## MÓDULO 4 -  Aprendizado no lab AZURE - Azure Cognitive Search - Utilizando AI Search para indexação e consulta de Dados:<br>
 Para construir uma pesquisa cognitiva no Azure foram apresentados:<br>
 ->Conceito de mineração;<br>
 ->Azure Cognitive Search;<br>
