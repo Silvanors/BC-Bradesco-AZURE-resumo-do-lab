@@ -29,9 +29,17 @@ Para construir uma pesquisa cognitiva no Azure foram apresentados:<br>
 ->Foi criado uma conta de armazenamento no Storage Acount;<br>
 ->Foi criado  Service AI;<br>
 ->Guia da documentação oficial https://aka.ms/ai900-ai-search;<br>
-
-
+## MÓDULO 5 -  Aprendizado no lab AZURE - Recursos de IA Generativa com Copilot e OpenAI:<br>
+->Foi apresentado o microsot copilot https://copilot.microsoft.com;<br>
+->Foi apresentado o Microsoft learning na parte de documentação por impossibilidade de imersão na ferramenta com a conta inicial; <br>
+->https://aka.ms/ai900-bing-copilot<br>
+->https://aka.ms/ai900-azure-openai<br>
+->https://aka.ms/ai900-content-filters<br>
 <br>
+Telas com os recursos criados durante o Lab-Azure:
+
+
+Recursos de IA Generativa com Copilot e OpenAI
 
 
 by Silvano Rodrigues
