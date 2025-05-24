@@ -38,7 +38,7 @@ Para construir uma pesquisa cognitiva no Azure foram apresentados:<br>
 <br>
 Telas com os recursos criados durante o Lab-Azure:<br>
 Recursos criados no grupo de recursos.png
-[](BC-Bradesco-AZURE-resumo-do-lab/images/Recursos criados no grupo de recursos.png);
+[Recursos criados no grupo de recursos](/images/Recursos criados no grupo de recursos.png);
 
 
 by Silvano Rodrigues
