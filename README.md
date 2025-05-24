@@ -1,5 +1,5 @@
 # BC-Bradesco-AZURE-resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+- Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 ## MÓDULO 1 -  Aprendizado no lab AZURE - Introdução:
 Neste lab introdutório foi apresentado como criar a conta na azure e conhecer os serviços e produtos em nuvem disponibilizados, e algumas caracteristicas, inclusive de configuração visual do painel
 ## MÓDULO 1 -  Aprendizado no lab AZURE - SLA:
